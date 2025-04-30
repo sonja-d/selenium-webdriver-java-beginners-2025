@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello World!");
         Greeting greeting = new Greeting();
         greeting.hello();
-         
+
 
         Messanger messanger = new Messanger();
         messanger.sendMessage();
