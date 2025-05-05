@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02920f79-4e38-4883-93af-baacaf72eb22" name="Changes" comment="Folder Vezba18 and file test created">
+      <change afterPath="$PROJECT_DIR$/Lecture_17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_19/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/HelloWordProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/HelloWordProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/out/production/HelloWordProject/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/out/production/HelloWordProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/out/production/HelloWordProject/Messanger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/src/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Messanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/src/Messanger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wObO8TaZ7aonkviqULVnVHFcYP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/doda/IdeaProjects/HelloWordProject",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.folding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Vezba18/src" />
+      <recent name="$PROJECT_DIR$/Vezba18" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Lecture_19/src" />
+      <recent name="$PROJECT_DIR$/Lecure_19" />
+      <recent name="$PROJECT_DIR$/Lecture_18" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lecture_18" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lecture_19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HelloWordProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02920f79-4e38-4883-93af-baacaf72eb22" name="Changes" comment="" />
+      <created>1745915533385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745915533385</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Folder Vezba18 created">
+      <option name="closed" value="true" />
+      <created>1746039250671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746039250671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Folder Vezba18 and file test created">
+      <option name="closed" value="true" />
+      <created>1746039442444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746039442444</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Folder Vezba18 created" />
+    <MESSAGE value="Folder Vezba18 and file test created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folder Vezba18 and file test created" />
+  </component>
+</project>
