@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02920f79-4e38-4883-93af-baacaf72eb22" name="Changes" comment="Folder Vezba18 and file test created">
-      <change afterPath="$PROJECT_DIR$/Lecture_17/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_19/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_19_2/Lecture_19_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_19_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_20/Lecture_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_20/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/HelloWordProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/HelloWordProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/out/production/HelloWordProject/Greeting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/out/production/HelloWordProject/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/out/production/HelloWordProject/Messanger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Greeting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/src/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture_18/src/Messanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture_17/src/Messanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +39,8 @@
   "keyToString": {
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,7 +67,7 @@
       <recent name="$PROJECT_DIR$/Lecture_18" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lecture_18" />
@@ -92,6 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lecture_19_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lecture_20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HelloWordProject" />
@@ -101,6 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
